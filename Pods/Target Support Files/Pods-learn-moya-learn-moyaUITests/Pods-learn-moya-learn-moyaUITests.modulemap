@@ -1,0 +1,6 @@
+framework module Pods_learn_moya_learn_moyaUITests {
+  umbrella header "Pods-learn-moya-learn-moyaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

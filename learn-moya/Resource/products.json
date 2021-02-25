@@ -1,0 +1,19 @@
+{
+    "code": 200,
+    "message": "Success getting product data",
+    "data": [
+        {
+            "product_id": 1,
+            "place_id": 1,
+            "name": "nonton film",
+            "price": 40000
+        },
+        {
+            "product_id": 2,
+            "place_id": 1,
+            "name": "nonton film",
+            "price": 45000
+        }
+    ]
+}
+

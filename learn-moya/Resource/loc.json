@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "message": "Success calculating distance",
+    "place": [
+        {
+            "id": 1,
+            "place": "asda",
+            "distance": 2.037552505318114
+        },
+        {
+            "id": 2,
+            "place": "asda 2",
+            "distance": 2.260314159975257
+        }
+    ]
+}

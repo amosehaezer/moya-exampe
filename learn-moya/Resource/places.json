@@ -1,0 +1,26 @@
+{
+    "code": 200,
+    "message": "Success to get place info",
+    "data": [
+        {
+            "id": 1,
+            "pname": "asda",
+            "description": "deskripsi",
+            "address": "alamat",
+            "number_phone": "6200000",
+            "rating": 4,
+            "latitude": -6.3323121,
+            "longitude": 106.3965612
+        },
+        {
+            "id": 2,
+            "pname": "asda 2",
+            "description": "deskripsi",
+            "address": "alamat",
+            "number_phone": "6300000",
+            "rating": 5,
+            "latitude": -6.3347562,
+            "longitude": 106.4144614
+        }
+    ]
+}
